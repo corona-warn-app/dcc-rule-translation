@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" tools:ignore="MissingTranslation">
 
-  <!-- XTXT: Rule XYZ -->
-  <string name="RULE_XYZ">"Description"</string>
+  <!-- XTXT: Booster Notification Rule: BNR-DE-0300, BMG-Empfehlung Booster  -->
+  <string name="BNR-DE-0300">"Das Bundesministerium für Gesundheit (BMG) empfiehlt allen Personen, bei denen keine Infektion mit dem Coronavirus SARS-CoV-2 nachgewiesen wurde und deren Grundimmunisierung über 6 Monate her ist, einen Impftermin zu vereinbaren bzw. sich über den Nutzen einer Auffrischimpfung ärztlich aufklären zu lassen. Wissenschaftliche Studien belegen die höhere Schutzwirkung von Auffrischimpfungen vor einer COVID-19-Infektion.\n\nDa Sie laut Ihrer gespeicherten Zertifikate dieser Personengruppe angehören und noch keine Auffrischimpfung erhalten haben, möchten wir Sie auf diese Empfehlung hinweisen. (Regel BNR-DE-0300)\n\nDieser Hinweis basiert ausschließlich auf den auf Ihrem Smartphone gespeicherten Zertifikaten. Die Verarbeitung der Daten erfolgte auf Ihrem Smartphone. Es wurden hierbei keine Daten an das RKI oder Dritte übermittelt."</string>
 
 </resources>
