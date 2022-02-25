@@ -1,0 +1,21 @@
+{
+  "collections": [
+    {
+      "collectionName": "dcc-rule-translation",
+      "folders": [
+        {
+          "startingFolderPath": "**/i18n/de/**",
+          "sourceFilters": [
+            "strings.xml"
+          ],
+          "targetFolderPath": "../[langCode]"
+        }
+      ]
+    }
+  ],
+  "defaultConfiguration": {
+    "pseudoLocFolderPath": "../2Q",
+    "oneQFolderPath": "../1Q",
+    "targetFileNamingConvention": "[filename].[extension]"
+  }
+}
