@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" tools:ignore="MissingTranslation">
+
+  <!-- XTXT: Booster Notification Rule: BNR-DE-0300, BMG-Empfehlung Booster  -->
+  <string name="BNR-DE-0300">"Niemieckie Federalne Ministerstwo Zdrowia (BMG) zaleca, aby wszyscy, którzy nie zostali zakażeni koronawirusem SARS-CoV-2 i którzy otrzymali szczepienie podstawowe ponad 6 miesięcy temu, umówili się na wizytę w celu wykonania szczepienia przypominającego lub otrzymali poradę lekarską na temat korzyści wynikających ze szczepienia przypominającego. Badania naukowe dowiodły, że szczepienia przypominające zapewniają lepszą ochronę przed zakażeniem wirusem COVID-19.\n\nZe względu na to, że z zapisanych certyfikatów wynika, iż te kryteria dotyczą Ciebie i nie miałeś(-aś) jeszcze szczepienia przypominającego, chcemy zwrócić Twoją uwagę na to zalecenie. (Reguła BNR-DE-0300)\n\nInformacje te opierają się wyłącznie na certyfikatach zapisanych w Twoim smartfonie. Dane zostały przetworzone na Twoim smartfonie. Nie przesłano żadnych danych do RKI ani do osób trzecich."</string>
+
+</resources>
