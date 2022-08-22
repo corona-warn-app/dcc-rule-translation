@@ -11,7 +11,7 @@
 </p>
 
 ## About this Repository
-This repository contains the description texts for the booster notification rules to be displayed in the Corona-Warn-App. From here, the translation can be triggered automatically into the languages supported by the Corona-Warn-App and later transferred to the corresponding repositories in which these rules are maintained.
+This repository contains the description texts for the booster notification rules to be displayed in the Corona-Warn-App as well as in the CovPass App. From here, the translation can be triggered automatically into the languages supported by the Corona-Warn-App and CovPass App and later transferred to the corresponding repositories in which these rules are maintained.
 
 ## How to Maintain Texts
 
