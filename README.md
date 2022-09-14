@@ -32,7 +32,7 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
-| **General discussion, issues, bugs**   | <a href="https://github.com/corona-warn-app/dcc-rule-translation/issues/new/choose" title="General Discussion"><img src="https://img.shields.io/github/issues/corona-warn-app/dcc-rule-translation/question.svg?style=flat-square"></a> </a>   |
+| **General discussion, issues, bugs**   | <a href="https://github.com/corona-warn-app/dcc-rule-translation/issues/new/choose" title="General Discussion"><img src="https://img.shields.io/github/issues/corona-warn-app/dcc-rule-translation?style=flat-square"></a> |
 | **Other requests**    | <a href="mailto:corona-warn-app.opensource@sap.com" title="Email CWA Team"><img src="https://img.shields.io/badge/email-CWA%20team-green?logo=mail.ru&style=flat-square&logoColor=white"></a> |
 
 ## How to Contribute
@@ -56,4 +56,3 @@ Licensed under the **Apache License, Version 2.0** (the "License"); you may not 
 You may obtain a copy of the License from [here](./LICENSE).
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the [LICENSE](./LICENSE) for the specific language governing permissions and limitations under the License.
-
